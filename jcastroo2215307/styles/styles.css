@@ -82,7 +82,11 @@ body{
     cursor: pointer;
     font-size: var(--md);
     font-weight: bold;
-
+    text-decoration: none;
+}
+.label1{
+    text-decoration: none;
+    color: azure;
 }
 
 .login-button{
