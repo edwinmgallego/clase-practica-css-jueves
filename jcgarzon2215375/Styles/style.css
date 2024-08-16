@@ -54,6 +54,7 @@ body{
     font-size: var(--sm);
     font-weight: bold;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .input{
@@ -77,9 +78,18 @@ body{
     font-size: var(--md);
     font-weight: bold;
 }
+
 .login-button{
     margin-top: 14px;
     margin-top: 20px;
+}
+a{
+    text-decoration: black;
+    color: black;
+}
+.a{
+    color: #f7f7f7;
+    text-decoration: #f7f7f7;
 }
 
 @media(max-width:640px){
