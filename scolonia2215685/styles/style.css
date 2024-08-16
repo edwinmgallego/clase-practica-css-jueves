@@ -60,6 +60,8 @@ body{
     font-size: var(--sm);
     font-weight: bold;
     margin-bottom: 20px;
+    text-decoration: none;
+    color: var(--black);
 }
 
 .input{
@@ -94,4 +96,10 @@ body{
     .Logo-uao{
         display: block;
     }
+}
+
+.label1{
+    text-decoration: none;
+    color: var(--text-input-field);
+
 }
