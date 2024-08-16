@@ -92,6 +92,12 @@ body{
     margin-bottom: 20px;
 }
 
+.forgetP{
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+}
+
 @media (max-width: 640px){
     .logo-uao{
         display: block;
