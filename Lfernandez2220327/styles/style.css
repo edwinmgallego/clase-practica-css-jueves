@@ -90,6 +90,14 @@ body{
     margin-bottom: 20px;
 }
 
+a{
+    text-decoration: none;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    text-align: center;
+}
+
 @media (max-width: 640px){
     .logo{
         display: block;
