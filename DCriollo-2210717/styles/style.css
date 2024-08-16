@@ -93,3 +93,18 @@ body{
         display: block;
     }
 }
+.subtitle2{
+    color: var(--black);
+    font-size: var(--sm);
+    font-weight: 400;
+    margin-top: 0;
+    text-align: center;
+
+}
+.Enlace{
+    font-size: var(--sm);
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
