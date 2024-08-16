@@ -42,7 +42,7 @@ body{
 .subtitle{
     color:var(--black);
     font-size: var(--md);
-    font-size: 400;
+    font-width: 400;
     margin-top: 0;
     text-align: center;
 
@@ -84,7 +84,7 @@ body{
 @media(max-width:640px){
 .logo-uao{
     display: block;
-}
+ }
 }
 
 
