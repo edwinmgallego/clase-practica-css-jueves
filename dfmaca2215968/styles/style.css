@@ -59,7 +59,12 @@ body{
     display: flex;
     flex-direction: column;
 }
-
+.correo{
+    font-size: var(--sm);
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
 .label{
     font-size: var(--sm);
     font-weight: bold;
