@@ -30,7 +30,6 @@ body{
 .logo-uao{
     width: 150px;
     justify-self: center;
-    display: none;
 }
 .tittle{
     font-size: var(--lg);
@@ -71,12 +70,16 @@ body{
     cursor: pointer;
     font-size: var(--md);
     font-weight: bold;
+    text-align: center;
 
 }
 
 .login-button{
     margin-top: 14px;
     margin-bottom: 20px;
+}
+#olvidar{
+    cursor: pointer;
 }
 
 @media(max-width:640px){
