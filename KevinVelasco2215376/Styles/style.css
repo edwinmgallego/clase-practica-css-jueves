@@ -90,6 +90,11 @@ body{
 
 }
 
+.texto{
+    color: var(--text-input-field);
+    text-decoration: none;
+}
+
 .login-button{
     margin-top: 14px;
     margin-bottom: 20px;
