@@ -27,6 +27,12 @@ body{
     align-items: center;
     margin-bottom: 20px;
 }
+.p_registro{
+    justify-self: left;
+    color: #9e0b0f;
+    opacity: 90%;
+    font-size: var(--sm);
+}
 .logo-uao{
     width: 150px;
     margin-bottom: 50px;
@@ -78,9 +84,13 @@ body{
 }
 .login-button{
     margin-top: 14px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 
 }
+.sign_in{
+    margin: 0;
+}
+
 @media (max-width:640px) {
     .logo-uao{
         display: block;
