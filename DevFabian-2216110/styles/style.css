@@ -3,8 +3,8 @@
 --text-input-field:#f7f7f7;
 --green:#acd9b2;
 --black:black;
---sm:12px;
---md:16px;
+--sm: 14px;
+--md: 16px;
 --lg: 18px;
 }
 
@@ -28,9 +28,9 @@ body{
     align-items:center;
     margin-bottom: 20px;
 }
-.logo-uao{
-    width: 150px;
-    margin-bottom: 50px;
+.logo{
+    width: 500px;
+    margin-bottom: 5x;
     justify-self: center;
 
 }
@@ -85,6 +85,8 @@ body{
 .logo-uao{
     display: block;
  }
+
+
 }
 
 
